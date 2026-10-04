@@ -1,3 +1,4 @@
+![logo](https://github.com/vikas-gupta77/vikas-gupta77/blob/main/baner.github.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Vikas Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
